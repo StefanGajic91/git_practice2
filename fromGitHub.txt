@@ -1,0 +1,5 @@
+This is an awesome file I added from durectly from github.com
+and now i am about to commit directly to github.com eremote repository
+thi i anot something we would do normally
+we are just trying somilate a situation where remote repository gistory is ahead of local repository-history
+in plain english remote has one addditional commin that local doesnt have
